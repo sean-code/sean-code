@@ -28,7 +28,7 @@ I am a Software Engineer
 
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" alt="sean-code" width="360"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sean-code&show_icons=true&locale=en&theme=chartreuse-dark" alt="sean-code" width="430" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sean-code&show_icons=true&locale=en&theme=chartreuse-dark" alt="sean-code" width="440" /></p>
 <br><br><br><br><br>
 <hr>
 
