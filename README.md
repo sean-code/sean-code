@@ -35,7 +35,7 @@ I am a Software Engineer
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sean-code&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
- 
+ </hr>
 
 
 
