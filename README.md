@@ -7,7 +7,9 @@ I am a Software Engineer
 
 ### Proficient in:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![ROR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![ROR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/Postgresql-07405E?style=for-the-badge&logo=postgres&logoColor=white)
+
 
 
 ### Technical in:
@@ -19,15 +21,22 @@ I am a Software Engineer
 
 ### Github Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sean-code&theme=highcontrast&show_icons=true&count_private=true) 
+<!-- ### Most Used Languages:
+<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level. -->
 
-### Most Used Languages:
+
+
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" alt="sean-code" width="310"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sean-code&show_icons=true&locale=en&theme=chartreuse-dark" alt="sean-code" width="390" /></p>
+<br><br><br><br><br>
+<hr>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nganga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&layout=compact#" /></a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sean-code&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
 
  
-<!-- <img src="https://github.com/sean-code/sean-code/blob/master/codeStats.svg" alt="My Coding Activity/> -->
+
 
 
 ### Professional Certificate
