@@ -42,7 +42,11 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## Below is my contribution streak:
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sean-code&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sean-code&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 
 
@@ -54,9 +58,9 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 <p align="left">
   <a href="https://www.linkedin.com/in/john-sean-nganga"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.twitter.com/nganga_sea"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
+</p>
+<p align="left">
   <a href="https://instagram/its_ngangasean"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
   <a href="https://t.me/sean_code"><img  title="Telegram Me" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
