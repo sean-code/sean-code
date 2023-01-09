@@ -2,7 +2,15 @@
 <!-- ### Professional Certificate
 ![Certificate](./assets/bitdegree-certificate-1030477%20(1).jpeg) -->
 
+<<<<<<< HEAD
 <!-- New Display -->
+=======
+### Proficient in:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![ROR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/Postgresql-07405E?style=for-the-badge&logo=postgres&logoColor=white)
+
+>>>>>>> 8aaa655775e73da424372bd52bb84802370419b4
 
 <div align="center">
     <img width="50%" height="10%" src="https://www.compuone.com/wp-content/uploads/2022/08/PENETRATION-1-1024x576.png">
@@ -17,12 +25,30 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+name+is+John+Nganga;A.K.A+Sean)](https://git.io/typing-svg)
 
 
+<<<<<<< HEAD
 
 <p align="center">
   <a href="https://twitter.com/nganga_sea"><img alt="followers" title="Follow Twitter" src="https://img.shields.io/twitter/follow/sean-code?color=55960c&label=Follow&logo=twitter&logoColor=blue&style=for-the-badge"/></a>
   <a href="https://github.com/sean-code"><img alt="followers" title="Follow Github" src="https://img.shields.io/github/followers/sean-code?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
 </p>
+=======
+<!-- ### Most Used Languages:
+<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level. -->
+
+
+
+<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" alt="sean-code" width="350"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sean-code&show_icons=true&locale=en&theme=chartreuse-dark" alt="sean-code" width="430" /></p>
+<br><br><br><br><br>
+<hr>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sean-code&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+
+ </hr>
+>>>>>>> 8aaa655775e73da424372bd52bb84802370419b4
 
 
 ## 📖 About me
