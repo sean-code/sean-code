@@ -33,7 +33,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 * 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm an Information Technogy student ( I am always learning)
 * 🕷️ I'm a Tech-enthusiast
-* 🌐 You can checkout some of my projects on <h3>[My Portfolio](https://sean-code.github.io/port-folio/#/projects)</h3>
+* 🌐 You can checkout some of my projects on [My Portfolio](https://sean-code.github.io/port-folio/#/projects)
 
 <p align="left">
   <a href="https://sean-code.github.io/port-folio/#/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=blue"/></a>
@@ -167,5 +167,13 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <summary>💻 Most used languages</summary>
   
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+
+
+ 
+  ### Professional Certificate
+
+<div align="left">
+    <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
+</div>
 
 
