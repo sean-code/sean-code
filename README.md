@@ -5,7 +5,7 @@
 <!-- New Display -->
 
 <div align="center">
-    <img width="50%" height="50%" src="https://img.freepik.com/free-vector/programmer-man-is-working-with-laptop-seat-work-from-home_40876-2623.jpg?size=626&ext=jpg&ga=GA1.1.1989920698.1665680982&semt=sph" height="175px"/>
+    <img width="40%" height="50%" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?size=626&ext=jpg&ga=GA1.2.1989920698.1665680982&semt=sph" height="175px"/>
 </div>
 
 
