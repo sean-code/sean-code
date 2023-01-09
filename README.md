@@ -5,7 +5,7 @@
 <!-- New Display -->
 
 <div align="center">
-    <img width="30%" height="10%" src="https://www.compuone.com/wp-content/uploads/2022/08/PENETRATION-1-1024x576.png">
+    <img width="50%" height="50%" src="https://img.freepik.com/free-vector/programmer-man-is-working-with-laptop-seat-work-from-home_40876-2623.jpg?size=626&ext=jpg&ga=GA1.1.1989920698.1665680982&semt=sph" height="175px"/>
 </div>
 
 
