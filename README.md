@@ -60,7 +60,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <a href="https://www.twitter.com/nganga_sea"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p align="left">
-  <a href="https://instagram/its_ngangasean"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/its_ngangasean/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/sean_code"><img  title="Telegram Me" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
