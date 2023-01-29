@@ -152,8 +152,6 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                         src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
               </td>
             </tr>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
