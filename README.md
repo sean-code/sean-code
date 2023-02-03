@@ -73,6 +73,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 <table>
     <tbody>
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=30&lines=I'm+currently+Learning+Angular+Framework;)](https://git.io/typing-svg)
         <tr>
           <p text-align="center">😇 I'm currently learning Angular</p>
         </tr>
