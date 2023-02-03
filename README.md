@@ -70,7 +70,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 </p>
 
 ## 👨‍💻 Languages, Tools, and Technologies:
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=30&lines=😇I'm+currently+learning+the+Angular+Framework;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=30&lines=😇I'm+Currently+learning+Angular;)](https://git.io/typing-svg)
 
 <table>
     <tbody>
