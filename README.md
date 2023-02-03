@@ -74,6 +74,9 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 <table>
     <tbody>
         <tr>
+          <p text-align="center">😇 I'm currently learning Angular</p>
+        </tr>
+        <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
             </td>
