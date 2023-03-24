@@ -77,24 +77,28 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="26px"
                         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
             </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="26px"
                         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="26px"
                         src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="BOOTSTRAP" title="Bootstrap" height="28px"
+            <td><a href="#"><img alt="BOOTSTRAP" title="Bootstrap" height="26px"
                         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
               </td>
                <td><a href="#"><img alt="React" title="Reactjs height="34px"
                         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
             </td>
-               <td>
-                  <a href="#"><img alt="ReactRouter" title="ReactRouter" height="28px"
-                        src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
+            <td>
+                <a href="#"><img alt="Vue JS" title="Vue JS" height="25px"
+                        src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
+              </td>
+              <td>
+              <a href="#"><img alt="Angular" title="Angular" height="28px"
+                        src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
               </td>
         </tr>
         <tr>
@@ -112,8 +116,14 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
               <a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a></td>
+            <td>
+              <a href="#"><img alt="Flask" title="Flask" height="29px"
+                        src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
+            </td>
+            <td>
+                <a href="#"><img alt="Markdown" title="Markdown" height="28px"
+                            src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+            </td>
              <td>
               <a href="#"><img alt="JSON" title="JSON" height="28px"
                         src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></a>
