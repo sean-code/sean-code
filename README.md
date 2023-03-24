@@ -21,9 +21,9 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 
 <p align="center">
-  <a href="https://twitter.com/nganga_sea"><img alt="followers" title="Follow Twitter" src="https://img.shields.io/twitter/follow/nganga_sea?color=55960c&label=Follow&logo=twitter&logoColor=blue&style=for-the-badge"/></a>
+  <a href="https://twitter.com/nganga_sea?"><img alt="followers" title="Follow Twitter" src="https://img.shields.io/twitter/follow/nganga_sea?color=55960c&label=Follow&logo=twitter&logoColor=blue&style=for-the-badge"/></a>
   <a href="https://github.com/sean-code"><img alt="followers" title="Follow Github" src="https://img.shields.io/github/followers/sean-code?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sean-code&label=Profile%20views&color=0e75b6&style=flat" alt="sean-code" padding="10%"/>
+  <img src="https://komarev.com/ghpvc/?username=sean-code&label=Profile%20views&color=blue&style=for-the-badge" alt="sean-code" width="22%"/>
 </p>
 
 
