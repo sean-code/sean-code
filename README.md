@@ -89,7 +89,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
             <td><a href="#"><img alt="BOOTSTRAP" title="Bootstrap" height="26px"
                         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
               </td>
-               <td><a href="#"><img alt="React" title="Reactjs height="34px"
+               <td><a href="#"><img alt="React" title="Reactjs" height="28px"
                         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
             </td>
             <td>
@@ -139,23 +139,26 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                 <a href="#"><img alt="Postgres" title="Postgres" height="28px"
                         src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
                 </td>
-            <td>
-              <a href="#"><img alt="Ubuntu" title="Ubuntu" height="28px"
-                        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-            </td>
-            <td><a href="#"><img alt="Mac" title="Mac" height="28px"
-                        src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a></td>
-            <td><a href="#"><img alt="Windows" title="Windows" height="28px"
-                        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a></td>
+                <td>
+                  <a href="#"><img alt="Figma" title="Figma" height="25px"
+                            src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+              </td>
+              <td>
+                  <a href="#"><img alt="XD Adobe" title="XD Adobe" height="28px"
+                            src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/></a>
+              </td>
+              <td>
+                <a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                          src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+              </td>
+              <td>
+                <a href="#"><img alt="Netlify" title="Netlify" height="28px"
+                          src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+              </td>
+            </tr>
             <tr>
-              <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-              </td>
-              <td><a href="#"><img alt="Netlify" title="Netlify" height="28px"
-                        src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-              </td>
                <td><a href="#"><img alt="Mercurial" title="Mercurial" height="28px"
-                        src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white" /></a>
+                        src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=black" /></a>
               </td>
               <td>
                 <a href="#"><img alt="Vercel" title="Vercel" height="28px"
@@ -164,7 +167,18 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                <td><a href="#"><img alt="Azure" title="Azure" height="28px"
                         src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
               </td>
-            </tr>
+              <td>
+              <a href="#"><img alt="Ubuntu" title="Ubuntu" height="28px"
+                        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+            </td>
+            <td>
+              <a href="#"><img alt="Mac" title="Mac" height="28px"
+                          src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+            </td>
+            <td>
+              <a href="#"><img alt="Windows" title="Windows" height="28px"
+                          src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -181,10 +195,10 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 
  
-  ### Professional Certificate
+  <!-- ### Professional Certificate -->
 
-<div align="left">
+<!-- <div align="left">
     <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
-</div>
+</div> -->
 
 
