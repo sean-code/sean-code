@@ -203,7 +203,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <tr>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="225px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="235px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
         </a>
     </td>
     <td>
