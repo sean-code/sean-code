@@ -203,12 +203,12 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <tr>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="400px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="200px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
         </a>
     </td>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="400px" src="./assets/bitdegree.png" />
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="200px" src="./assets/bitdegree.png" />
         </a>
     </td>
   </tr>
