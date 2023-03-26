@@ -208,7 +208,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
     </td>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="200px" src="./assets/bitdegree.png" />
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="245px" src="./assets/bitdegree.png" />
         </a>
     </td>
   </tr>
