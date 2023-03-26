@@ -55,7 +55,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/sean-code?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🕵️ Stalk Me Here:
+## 🕵️ Stalk me here:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/john-sean-nganga"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -71,7 +71,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <a href="https://github.com/sean-code?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages, Tools, and Technologies:
+## 👨‍💻 Languages, tools, and technologies:
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Angular;And+Flask+Frameworks!!)](https://git.io/typing-svg)
 
 <table>
@@ -184,21 +184,34 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 </table>
 
 
-## 📈 Github Stats
+## 📈 Github stats
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sean-code's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sean-code&theme=highcontrast&show_icons=true&count_private=true" /></a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sean-code's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" /></a>
 
-  <summary>💻 Most used languages</summary>
   
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
 
  
-  <!-- ### Professional Certificate -->
+  ### Professional Certificates
+  <!-- <div align="left">
+        <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
+    </div> -->
 
-<!-- <div align="left">
-    <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
-</div> -->
+<table>
+  <tr>
+    <td>
+        <a href="#">
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="500px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
+        </a>
+    </td>
+    <td>
+        <a href="#">
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="500px" src="./assets/bitdegree.png" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 
