@@ -44,15 +44,11 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## Below is my contribution streak:
 
 
-<!-- <div align="center">
+<div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sean-code&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div> -->
-
-<div align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=sean-code&theme=dark)](https://git.io/streak-stats)
- </div>
+</div>
 
 
 
