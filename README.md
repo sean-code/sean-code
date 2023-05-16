@@ -11,7 +11,7 @@
 </div> -->
 
 
-<h2 
+<h2
 align="center">
 Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="27px" width="28px" alt="hi">
 </h2>
@@ -74,6 +74,10 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## 👨‍💻 Languages, tools, and technologies:
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Angular;And+Flask+Frameworks!!)](https://git.io/typing-svg)
 
+
+
+
+(https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
 <table>
     <tbody>
         <tr>
@@ -93,11 +97,16 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
             </td>
             <td>
-                <a href="#"><img alt="Vue JS" title="Vue JS" height="25px"
+                <a href="#"><img alt="Vue JS" title="Vue JS" height="22px"
                         src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
               </td>
               <td>
-              <a href="#"><img alt="Angular" title="Angular" height="28px"
+                <a href="#"><img alt="Vue JS" title="Vue JS" height="22px"
+                        src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
+                </a>
+              </td>
+              <td>
+              <a href="#"><img alt="Angular" title="Angular" height="24px"
                         src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
               </td>
         </tr>
@@ -109,12 +118,12 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
               <a href="#"><img alt="Ruby On Rails" title="Ruby On Rails" height="28px"
                         src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-            </td>
             <td>
               <a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+            </td>
+            <td><a href="#"><img alt="Django" title="Django" height="28px"
+                        src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
             </td>
             <td>
               <a href="#"><img alt="Flask" title="Flask" height="29px"
@@ -124,8 +133,13 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                 <a href="#"><img alt="Markdown" title="Markdown" height="28px"
                             src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
             </td>
+              <td>
+                <a href="#"><img alt="Firebase" title="Firebase" height="22px"
+                          src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+                </a>
+            </td>
              <td>
-              <a href="#"><img alt="JSON" title="JSON" height="28px"
+              <a href="#"><img alt="JSON" title="JWT" height="24px"
                         src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></a>
             </td>
         </tr>
@@ -189,11 +203,11 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sean-code's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" /></a>
 
-  
+
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
 
- 
+
   ### Professional Certificates
   <!-- <div align="left">
         <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
