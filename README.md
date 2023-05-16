@@ -99,7 +99,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                         src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
               </td>
               <td>
-                <a href="#"><img alt="Vue JS" title="Vue JS" height="22px"
+                <a href="#"><img alt="Vue JS" title="Vuetify" height="22px"
                         src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
                 </a>
               </td>
@@ -132,7 +132,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
                             src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
             </td>
               <td>
-                <a href="#"><img alt="Firebase" title="Firebase" height="22px"
+                <a href="#"><img alt="Firebase" title="Firebase" height="26px"
                           src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
                 </a>
             </td>
