@@ -72,16 +72,14 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 </p>
 
 ## 👨‍💻 Languages, tools, and technologies:
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Angular;And+Flask+Frameworks!!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Django;And+Practicing+Big+Data+Algorithm!!)](https://git.io/typing-svg)
 
 
 
-
-(https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="26px"
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="24px"
                         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="26px"
