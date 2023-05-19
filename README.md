@@ -215,13 +215,21 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <tr>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="235px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
+          <img alt="Network Security" title="Network Security" height="180px" width="255px" src="./assets/bitdegree.png" />
         </a>
+        <p>Network Security Fundamentalist</p>
     </td>
     <td>
         <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="245px" src="./assets/bitdegree.png" />
+          <img alt="Ubuntu" title="Ubuntu" height="180px" width="245px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
         </a>
+        <p>Cyber Security<br/>Enthusiast</p>
+    </td>
+    <td>
+        <a href="#">
+          <img alt="Ubuntu" title="Web Design Sprint" height="180px" width="245px" src="./assets/bitdegree-webdesign.jpeg" />
+        </a>
+        <p>UI/UX Web Design Sprint<br/>Practitioner</p>
     </td>
   </tr>
 </table>
