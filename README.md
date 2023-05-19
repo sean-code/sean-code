@@ -229,7 +229,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
         <a href="#">
           <img alt="Ubuntu" title="Web Design Sprint" height="180px" width="245px" src="./assets/bitdegree-webdesign.jpeg" />
         </a>
-        <p>UI/UX Web Design Sprint<br/>Practitioner</p>
+        <p>UI/UX Web Design<br/>Sprint Practitioner</p>
     </td>
   </tr>
 </table>
