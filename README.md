@@ -217,7 +217,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
         <a href="#">
           <img alt="Network Security" title="Network Security" height="180px" width="255px" src="./assets/bitdegree.png" />
         </a>
-        <p>Network Security Fundamentalist</p>
+        <p>Network Security<br/>Fundamentalist</p>
     </td>
     <td>
         <a href="#">
