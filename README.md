@@ -199,6 +199,8 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## 📈 Github stats
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sean-code's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sean-code&theme=highcontrast&show_icons=true&count_private=true" /></a>
 
+
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sean-code's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact#" /></a>
 
 
