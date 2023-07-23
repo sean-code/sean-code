@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width=35%" height="50%"/>
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width=35%" height="40%"/>
 </div>
 
 
