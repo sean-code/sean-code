@@ -1,7 +1,4 @@
-
-
 <!-- New Display -->
-
 
 <div id="header" align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width=45%" height="40%"/>
@@ -84,7 +81,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 </p>
 
 ## 👨‍💻 Languages, tools, and technologies:
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Django;And+Practicing+Big+Data+Algorithm!!)](https://git.io/typing-svg)
+ <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Django;And+Practicing+Big+Data+Algorithm!!)](https://git.io/typing-svg) -->
 
 
 
@@ -220,12 +217,12 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 
 
-  ### Professional Certificates
+  <!-- ### Professional Certificates -->
   <!-- <div align="left">
         <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
     </div> -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
         <a href="#">
@@ -246,6 +243,6 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
         <p>UI/UX Web Design<br/>Sprint Practitioner</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
