@@ -6,20 +6,6 @@
 </div>
 
 
-<!-- <div id="header" align="center">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width=45%" height="40%"/>
-</div> -->
-
-<!-- <div id="header" align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width=20%" height="20%"/>
-</div> -->
-
-
-
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="40%" height="50%"/>
-</div> -->
-
 <!-- <div align="center">
     <img width="40%" height="50%" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?size=626&ext=jpg&ga=GA1.2.1989920698.1665680982&semt=sph" height="175px"/>
 </div> -->
