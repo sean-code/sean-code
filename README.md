@@ -36,7 +36,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 * 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm an Information Technogy student ( I am always learning)
 * 🕷️ I'm a Tech-enthusiast
-* 🌐 You can checkout some of my projects on [My Portfolio](https://sean-code.github.io/port-folio/#/projects)
+* 🌐 You can checkout [My Portfolio](https://sean-code.github.io/port-folio/#/projects)
 
 <p align="left">
   <a href="https://sean-code.github.io/port-folio/#/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=blue"/></a>
