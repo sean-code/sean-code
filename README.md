@@ -30,8 +30,8 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## 📖 About me
 
 * ☁️ I'm a Cloud Solutions Practitioner
-* 💻 I'm a Software Engineer
 * 💻 I'm a Full Stack Developer
+* 💻 I'm a Tech Savant
 * 🎓 I'm a BioInformatician Graduate
 * 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm an Information Technogy student ( I am always learning)
