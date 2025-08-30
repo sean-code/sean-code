@@ -29,13 +29,12 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 ## 📖 About me
 
+* 🎓 I'm a Graduate Student (MSC. USD)
 * ☁️ I'm a Cloud Solutions Practitioner
 * 💻 I'm a Full Stack Developer
-* 💻 I'm a Tech Savant
-* 🎓 I'm a BioInformatician Graduate
+* 💻 I'm a Tech Tamer
 * 🎨 I'm a self-taught UI/UX designer
-* 🎓 I'm an Information Technogy student ( I am always learning)
-* 🕷️ I'm a Tech-enthusiast
+* 🕷️ I'm an Open-Source Contributor
 * 🌐 You can checkout [My Portfolio](https://sean-code.github.io/port-folio/#/projects)
 
 <p align="left">
