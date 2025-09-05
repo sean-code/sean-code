@@ -35,7 +35,7 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 * 💻 I'm a Tech Tamer
 * 🎨 I'm a self-taught UI/UX designer
 * 🕷️ I'm an Open-Source Contributor
-* 🌐 You can checkout [My Portfolio](https://sean-code.github.io/port-folio/#/projects)
+* 🌐 You can checkout [My Portfolio](https://johnkangethe.me/)
 
 <p align="left">
   <a href="https://sean-code.github.io/port-folio/#/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=blue"/></a>
