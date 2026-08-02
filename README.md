@@ -72,129 +72,48 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
   <a href="https://github.com/sean-code?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages, tools, and technologies:
- <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D23114&height=36&lines=I'm+Currently+Learning+Django;And+Practicing+Big+Data+Algorithm!!)](https://git.io/typing-svg) -->
+
+Tech Stack
+
+Languages
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+Bioinformatics & HPC
+
+<img src="https://img.shields.io/badge/BLAST-005A9C?style=for-the-badge"/> <img src="https://img.shields.io/badge/SLURM-FF6600?style=for-the-badge"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/fastp-2E8B57?style=for-the-badge"/>
+
+Cloud & Infrastructure
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+Web & Frontend
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+Tooling
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sean-code&theme=highcontrast&show_icons=true&count_private=true" alt="Sean's GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-code&langs_count=10&theme=chartreuse-dark&layout=compact" alt="Top languages" height="165"/>
 
 
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="24px"
-                        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="26px"
-                        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="26px"
-                        src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-            </td>
-            <td><a href="#"><img alt="BOOTSTRAP" title="Bootstrap" height="26px"
-                        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-              </td>
-               <td><a href="#"><img alt="React" title="Reactjs" height="28px"
-                        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-            </td>
-            <td>
-                <a href="#"><img alt="Vue JS" title="Vue JS" height="22px"
-                        src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
-              </td>
-              <td>
-                <a href="#"><img alt="Vue JS" title="Vuetify" height="22px"
-                        src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
-                </a>
-              </td>
-              <td>
-              <a href="#"><img alt="Angular" title="Angular" height="24px"
-                        src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
-              </td>
-        </tr>
-        <tr>
-          <td><a href="https://brave.com/eyl243"><img alt="Ruby" title="Ruby" height="28px"
-                        src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
-          </td>
-          <td>
-              <a href="#"><img alt="Ruby On Rails" title="Ruby On Rails" height="28px"
-                        src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
-            </td>
-            <td>
-              <a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
-            </td>
-            <td><a href="#"><img alt="Django" title="Django" height="28px"
-                        src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
-            </td>
-            <td>
-              <a href="#"><img alt="Flask" title="Flask" height="29px"
-                        src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
-            </td>
-            <td>
-                <a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                            src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-            </td>
-              <td>
-                <a href="#"><img alt="Firebase" title="Firebase" height="26px"
-                          src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-                </a>
-            </td>
-             <td>
-              <a href="#"><img alt="JSON" title="JWT" height="24px"
-                        src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></a>
-            </td>
-        </tr>
-        <tr>
-              <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
-                        src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-            </td>
-            <td><a href="#"><img alt="Sqlite" title="Sqlite" height="28px"
-                        src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a></td>
-            <td>
-                <a href="#"><img alt="Postgres" title="Postgres" height="28px"
-                        src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-                </td>
-                <td>
-                  <a href="#"><img alt="Figma" title="Figma" height="25px"
-                            src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
-              </td>
-              <td>
-                  <a href="#"><img alt="XD Adobe" title="XD Adobe" height="28px"
-                            src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/></a>
-              </td>
-              <td>
-                <a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                          src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-              </td>
-              <td>
-                <a href="#"><img alt="Netlify" title="Netlify" height="28px"
-                          src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-              </td>
-            </tr>
-            <tr>
-               <td><a href="#"><img alt="Mercurial" title="Mercurial" height="28px"
-                        src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=black" /></a>
-              </td>
-              <td>
-                <a href="#"><img alt="Vercel" title="Vercel" height="28px"
-                        src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-              </td>
-               <td><a href="#"><img alt="Azure" title="Azure" height="28px"
-                        src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-              </td>
-              <td>
-              <a href="#"><img alt="Ubuntu" title="Ubuntu" height="28px"
-                        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-            </td>
-            <td>
-              <a href="#"><img alt="Mac" title="Mac" height="28px"
-                          src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
-            </td>
-            <td>
-              <a href="#"><img alt="Windows" title="Windows" height="28px"
-                          src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<sub>Stats reflect public GitHub activity only — not a full measure of experience or skill.</sub>
+
+</div>
+<div align="center"> <sub>Open to research collaborations and full-time / internship opportunities in ML, bioinformatics, and data engineering.</sub> </div>
+
+
 
 
 ## 📈 Github stats
@@ -209,32 +128,6 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 
 
-  <!-- ### Professional Certificates -->
-  <!-- <div align="left">
-        <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
-    </div> -->
 
-<!-- <table>
-  <tr>
-    <td>
-        <a href="#">
-          <img alt="Network Security" title="Network Security" height="180px" width="255px" src="./assets/bitdegree.png" />
-        </a>
-        <p>Network Security<br/>Fundamentalist</p>
-    </td>
-    <td>
-        <a href="#">
-          <img alt="Ubuntu" title="Ubuntu" height="180px" width="245px" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" />
-        </a>
-        <p>Cyber Security<br/>Enthusiast</p>
-    </td>
-    <td>
-        <a href="#">
-          <img alt="Ubuntu" title="Web Design Sprint" height="180px" width="265px" src="./assets/webDesign.png" />
-        </a>
-        <p>UI/UX Web Design<br/>Sprint Practitioner</p>
-    </td>
-  </tr>
-</table> -->
 
 
