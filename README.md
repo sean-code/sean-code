@@ -29,11 +29,12 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 ## 📖 About me
 
-* 🎓 I'm a Graduate Student (MSC. USD)
-* ☁️ I'm a Cloud Solutions Practitioner
+* 🎓 - MSc Computer Science, AI
+* * ☁️ I'm a Cloud Solutions Architect
+* - 💻 I'm a ML/AI Expert
+*  💻 I'm a Data Engineer
 * 💻 I'm a Full Stack Developer
-* 💻 I'm a Tech Tamer
-* 🎨 I'm a self-taught UI/UX designer
+* 🎨 I'm a UI/UX enthusiast
 * 🕷️ I'm an Open-Source Contributor
 * 🌐 You can checkout [My Portfolio](https://johnkangethe.me/)
 
