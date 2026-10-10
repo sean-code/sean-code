@@ -30,9 +30,9 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 ## 📖 About me
 
 * 🎓 - MSc Computer Science, AI
-* * ☁️ I'm a Cloud Solutions Architect
-* - 💻 I'm a ML/AI Expert
-*  💻 I'm a Data Engineer
+* ☁️ I'm a Cloud Solutions Architect
+* 💻 I'm a ML/AI Expert
+* 💻 I'm a Data Engineer
 * 💻 I'm a Full Stack Developer
 * 🎨 I'm a UI/UX enthusiast
 * 🕷️ I'm an Open-Source Contributor
